@@ -13,7 +13,7 @@ genfei challenge in cybertalent check it form this [link](https://cybertalents.c
 
  - F() function do xor operation then it's the reverse of itself
  so we don't need to change it 
- -decryption stage two first 
+ - decryption stage two first 
  - start by decrypt d then  a ,b , c   
  - note that we use a to get c in the end so we save it in temp before do anything 
  - repeat the last 2  steps again on stage one 
