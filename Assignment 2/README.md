@@ -1,6 +1,6 @@
-##Assignment2
+###Assignment2
 genfei challenge in cybertalent check it form this [link](https://cybertalents.com/challenges/cryptography/genfei)
- ##How to solve this 
+###How to solve this 
  don't change anything in the encrypt file your role is to decrypt this algorithm 
  the key of this problem is to discover that 
  **It's a Feistel Network and hence the name generalized feistel.
