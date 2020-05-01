@@ -6,6 +6,4 @@ The should be callable from command line as follows:
 - The Third argument is the input file.
 - The fourth argument is the output file.
 - The last argument is the the list of encryption keys required for the cipher.
-**note that if the cipher use only one key pls pass the second as 0 
-u can use upper or lower case it will work 
-the spaces don't affect **
+**note that if the cipher use only one key pls pass the second as 0 u can use upper or lower case it will work the spaces don't affect **
