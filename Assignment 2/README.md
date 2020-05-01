@@ -1,9 +1,15 @@
-##Assignment2
-~~~~
+**
+
+# Assignment2
+
+**
+
 genfei challenge in cybertalent check it form this [link](https://cybertalents.com/challenges/cryptography/genfei)
-~~~~
-##How to solve this 
-~~~~
+**
+
+#How to solve this 
+
+**
  don't change anything in the encrypt file your role is to decrypt this algorithm 
  the key of this problem is to discover that 
  **It's a Feistel Network and hence the name generalized feistel.
@@ -11,7 +17,7 @@ genfei challenge in cybertalent check it form this [link](https://cybertalents.c
  the second step of encryption. 
  From there it is easy to follow the chain and undo it.** 
  and do this steps :
- ~~~~
+
  - F() function do xor operation then it's the reverse of itself
  so we don't need to change it 
  -decryption stage two first 
